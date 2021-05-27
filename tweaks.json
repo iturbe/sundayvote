@@ -1,0 +1,92 @@
+{
+    "split": [],
+
+    "darken_10": [],
+    "darken_20": [],
+    "darken_50": [1,2,3,4,5,6],
+
+    "color_overlay": [1,2,3,4,5,6,7,8,9,10],
+
+    "titleText": [],
+    "content"  : [],
+
+    "gaussianBlur": [],
+
+    "whichQuestions" : [],
+    "questions": [
+
+        "Considering that gathering personal data is the way in which companies analyze what new products & services they should offer next, whether it is improving an existing product/service or creating a new one, which do you prefer?",
+
+        "Digi.me helps people better understand how companies are using their data. Through their partnership with UBDI, anonymised data insights are sold to market research companies, and the money flows back directly to the consumer. This gives consumers a sense of control by setting a price on what information they feel comfortable divulging. Would you sell your data for money? (You’re already doing it for free! 🙃)",
+
+        "Sushi Singularity is a sushi restaurant where you submit your DNA two weeks in advance, so when you visit, you get 3D-printed, customised dishes based on your DNA data. Would you go to these kinds of restaurants?",
+
+        "People want to connect to their neighbourhood again and support local, independent traders. En cuál prefieres comprar?",
+        
+        "Feel the Peel is a circular juice bar that uses orange peels to make 3D-printed, disposable bioplastic cups. The company aims to include new functions like printing fabric for clothing from the orange peel in the future. Would you pay extra for cups that are bioplastic degradable?"
+    ],
+
+    "dual" : [],
+    "dualcontent" : [
+        ["Azul", "Ave María"],
+        ["Mátalas", "Le Hace Falta Un Beso"],
+        ["Caraluna", "Mi Primer Millón"],
+        ["La Calle de las Sirenas", "La Chica de Humo"],
+        ["Una Vaina Loca", "Danza Kuduro"],
+        ["Don’t Stop Me Now", "Mr. Brightside"],
+        ["La Canción del Velero", "Pásame la Botella"],
+        ["Isabel", "Sirena"],
+        ["Con Todos Menos Conmigo", "Ahora te Puedes Marchar"],
+        ["I Will Survive", "Culpable o No (Miénteme Como Siempre)"],
+        ["Espacio Sideral", "Humanos a Marte"]
+    ],
+
+    "after_vote" : [],
+
+    "text_prefs" : {
+        
+        "top_question_y_offset"   : 370,
+        "top_question_font_size"  : 100,
+        "top_question_font_wrap"  : 20,
+        
+        "question_y_offset"   : 650,
+        "question_font_size"  : 60,
+        "question_font_wrap"  : 33,
+        
+        "titleText_font_size"  : 100,
+        "titleText_font_color" : "#000000",
+        "titleText_font_shadow_color" : "#000000",
+        
+        "title_font_size"  : 80,
+        "title_font_wrap"  : 18,
+        
+        "title_y_offset"   : 370,
+        "subtitle_y_offset": 505,
+
+        "content_font_size": 55,
+        "content_font_wrap": 32,
+
+        "content_font_size_large": 120,
+        "content_font_wrap_large": 15,
+
+        "content_spacer_top": 640,
+
+        "content_spacer_top_option": 550,
+        "content_spacer_bottom_option": 1700,
+
+        "question_color": "#FFFFFF", 
+        "title_color"   : "#FFB800", 
+        "normal_color"  : "#FFFFFF",
+        "inverted_color": "#000000", 
+        "emphasis_color": "#FFB800",
+        "blue"          : "#0A7BFF",
+        "green"         : "#00F900",
+        "pink"          : "#FF3B99", 
+        "ASF_gold"      : "#B8971F", 
+        "ASF_maroon"    : "#6A0E24", 
+        
+        "title_font"  : "'/Library/Fonts/Arial.ttf'",
+        "content_font": "'/Library/Fonts/Arial.tt'"
+
+    }
+}
